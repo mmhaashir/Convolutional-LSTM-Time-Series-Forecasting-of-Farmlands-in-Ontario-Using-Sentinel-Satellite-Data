@@ -3,7 +3,7 @@
 ## Introduction <a name="intro"></a>
 Welcome to the Time-Series Forecasting of Farmlands in Ontario, Canada project! This repository provides an in-depth guide and codebase for leveraging Convolutional Long Short-Term Memory (Conv-LSTM) networks to forecast farmland dynamics in the beautiful province of Ontario, Canada, utilizing data from the Sentinel-2 Earth-observing satellite mission.
 
-![dav_image](https://vitalflux.com/wp-content/uploads/2022/04/different-types-of-time-series-forecasting.png))
+![dav_image](https://vitalflux.com/wp-content/uploads/2022/04/different-types-of-time-series-forecasting.png)
 
 ## Table of Contents
 
